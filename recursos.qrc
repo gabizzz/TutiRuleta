@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/tutifruti/beep.wav</file>
+        <file>qml/tutifruti/bkg.jpeg</file>
+        <file>qml/tutifruti/icon.png</file>
+        <file>qml/tutifruti/reloadSound.wav</file>
+        <file>qml/tutifruti/finalSound.wav</file>
+        <file>qml/tutifruti/nivelSound.wav</file>
+        <file>qml/tutifruti/stop.png</file>
+        <file>qml/tutifruti/media-pause.png</file>
+        <file>qml/tutifruti/media-play.png</file>
+        <file>qml/tutifruti/media-repeat-alt.png</file>
+    </qresource>
+</RCC>
